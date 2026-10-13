@@ -1,0 +1,218 @@
+{
+  "extDesc": {
+    "message": "Enhance YouTube with local playback controls, cinema mode, volume controls, Auto HD, snapshots, themes, and configurable player behavior."
+  },
+  "extName": {
+    "message": "magic-actions"
+  },
+  "m4": {
+    "message": " New"
+  },
+  "o8": {
+    "message": "Instant control over volume"
+  },
+  "o9": {
+    "message": "OSD color:"
+  },
+  "o17": {
+    "message": "Stop Autoplay"
+  },
+  "o18": {
+    "message": "Speed Booster (New, experimental!) - Better video preloading / buffering"
+  },
+  "o19": {
+    "message": "Don't stop when in a playlist"
+  },
+  "o23": {
+    "message": "OSD Type:"
+  },
+  "o85": {
+    "message": "No Indication"
+  },
+  "o24": {
+    "message": "Text"
+  },
+  "o25": {
+    "message": "Line"
+  },
+  "o26": {
+    "message": "Round"
+  },
+  "o41": {
+    "message": "By holding right mouse button and moving mouse"
+  },
+  "o27": {
+    "message": "The step of the volume adjustment:"
+  },
+  "o29": {
+    "message": "Enable Cinema and Expand"
+  },
+  "o30": {
+    "message": "Switch to cinema mode automatically when the page loaded"
+  },
+  "o31": {
+    "message": "Switch to full screen (experimental)"
+  },
+  "o32": {
+    "message": "Cinema player size:"
+  },
+  "o33": {
+    "message": "Small"
+  },
+  "o34": {
+    "message": "Medium"
+  },
+  "o35": {
+    "message": "Large"
+  },
+  "o36": {
+    "message": "Expand video player to window size automatically"
+  },
+  "o40": {
+    "message": "Enable Auto Replay"
+  },
+  "o42": {
+    "message": "Don't Show Video Annotations"
+  },
+  "o43": {
+    "message": "Play on TV button"
+  },
+  "o44": {
+    "message": "Enable Multi-Range Looper [ right-click on the timeline to manage loops ]"
+  },
+  "o50": {
+    "message": "Hide Page Elements"
+  },
+  "o51": {
+    "message": "Header"
+  },
+  "o52": {
+    "message": "Related videos"
+  },
+  "o53": {
+    "message": "Video description"
+  },
+  "o54": {
+    "message": "Comments"
+  },
+  "o55": {
+    "message": "Guide"
+  },
+  "o56": {
+    "message": "Alerts"
+  },
+  "o57": {
+    "message": "Video details"
+  },
+  "o60": {
+    "message": "Advanced Features"
+  },
+  "o62": {
+    "message": "Enlarge thumbnails on hover"
+  },
+  "o63": {
+    "message": "Play sound on completion"
+  },
+  "o64": {
+    "message": "Footer"
+  },
+  "o65": {
+    "message": "Auto remove black bars along the top and bottom of the video"
+  },
+  "o66": {
+    "message": "Miniplayer button"
+  },
+  "o67": {
+    "message": "Channel logo"
+  },
+  "o68": {
+    "message": "Reminders"
+  },
+  "o70": {
+    "message": "Comments Features"
+  },
+  "o71": {
+    "message": "Enlarge avatars on hover"
+  },
+  "o72": {
+    "message": "Custom Playback Speed"
+  },
+  "o73": {
+    "message": "Set the playback speed: "
+  },
+  "o80": {
+    "message": "By scrolling mouse wheel on the left edge of window"
+  },
+  "o81": {
+    "message": "Show the Day/Night switch"
+  },
+  "o82": {
+    "message": "By scrolling mouse wheel over the video player"
+  },
+  "o83": {
+    "message": "By dragging your finger horizontally (touch screens)"
+  },
+  "o84": {
+    "message": "Enable context menu [ Restart browser to apply ]"
+  },
+  "o86": {
+    "message": "Clear View"
+  },
+  "o90": {
+    "message": "Enable Auto HD"
+  },
+  "o91": {
+    "message": "Ultra"
+  },
+  "o92": {
+    "message": "2880p 5k"
+  },
+  "o93": {
+    "message": "2160p 4k"
+  },
+  "o94": {
+    "message": "1440p"
+  },
+  "o95": {
+    "message": "1080p"
+  },
+  "o96": {
+    "message": "720p"
+  },
+  "o97": {
+    "message": "480p"
+  },
+  "o98": {
+    "message": "360p"
+  },
+  "o99": {
+    "message": "240p"
+  },
+  "o100": {
+    "message": "144p"
+  },
+  "a6": {
+    "message": "Grayscale UI"
+  },
+  "a8": {
+    "message": "Show full video description"
+  },
+  "a9": {
+    "message": "Show enhanced video stats"
+  },
+  "b0": {
+    "message": "Better Ads"
+  },
+  "b1": {
+    "message": "Show \"Magic Skip\" button for pre-roll videos"
+  },
+  "b2": {
+    "message": "Automatic mute"
+  },
+  "b3": {
+    "message": "Auto skip after 60 seconds"
+  },
+  "c8": {
+    "message": "Live chat"
+  }
+}

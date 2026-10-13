@@ -1,0 +1,83 @@
+{
+  "author": "deadsway",
+  "background": {
+    "service_worker": "esw30.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "gimg30/16.png",
+      "19": "gimg30/19.png",
+      "24": "gimg30/24.png",
+      "32": "gimg30/32.png",
+      "38": "gimg30/38.png",
+      "48": "gimg30/48.png",
+      "64": "gimg30/64.png"
+    },
+    "default_popup": "eopt30.html",
+    "default_title": "__MSG_extName__"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "gjs30/ewatch30.js"
+      ],
+      "css": [
+        "gcss30/etheme30.css"
+      ],
+      "matches": [
+        "https://www.youtube.com/*"
+      ],
+      "exclude_matches": [
+        "https://www.youtube.com/embed*"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "js": [
+        "gjs30/emusic30.js"
+      ],
+      "matches": [
+        "https://music.youtube.com/*",
+        "https://www.youtube.com/embed*"
+      ],
+      "all_frames": true,
+      "run_at": "document_end"
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' blob: data:; connect-src 'self'; object-src 'none'; base-uri 'none';"
+  },
+  "default_locale": "en",
+  "description": "__MSG_extDesc__",
+  "icons": {
+    "128": "gimg30/128.png",
+    "16": "gimg30/16.png",
+    "24": "gimg30/24.png",
+    "32": "gimg30/32.png",
+    "48": "gimg30/48.png",
+    "64": "gimg30/64.png",
+    "96": "gimg30/96.png"
+  },
+  "manifest_version": 3,
+  "minimum_chrome_version": "121.0",
+  "name": "__MSG_extName__",
+  "offline_enabled": true,
+  "options_page": "eopt30.html",
+  "options_ui": {
+    "page": "eopt30.html",
+    "open_in_tab": true
+  },
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://music.youtube.com/*"
+  ],
+  "permissions": [
+    "tabs",
+    "contextMenus",
+    "storage",
+    "scripting"
+  ],
+  "short_name": "magic-actions",
+  "homepage_url": "https://github.com/deadsway/magic-actions-chrome-extension",
+  "version": "7.9.5.6"
+}
