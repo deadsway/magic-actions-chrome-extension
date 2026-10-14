@@ -1,4 +1,4 @@
-# magic-actions
+# magic-actions - Ads free, Bloatware free, Redesign
 
 ![Chrome 121+](https://img.shields.io/badge/Chrome-121%2B-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-34A853)
@@ -26,31 +26,13 @@ A lightweight, local-first Chrome extension that adds useful controls, visual to
 
 Take a screenshot of the extension's **Options** page with the redesigned interface visible. Use a clean state with several settings shown so the colour scheme, typography, switches, and layout are easy to recognise.
 
-Save it as:
-
-```text
-docs/screenshots/options.png
-```
-
-Recommended capture: approximately **1200 × 800 px** or a similar 3:2 / 16:10 crop.
-
-<!-- After adding the screenshot, remove this comment and uncomment the line below. -->
-<!-- ![magic-actions options](docs/screenshots/options.png) -->
+![magic-actions options](docs/screenshots/options.png)
 
 ### Player toolbar
 
 Open a normal YouTube video, open the **magic-actions toolbar**, and take a screenshot that clearly shows the toolbar together with enough of the YouTube player to make the integration obvious.
 
-Save it as:
-
-```text
-docs/screenshots/player-toolbar.png
-```
-
-Recommended capture: approximately **1600 × 900 px**. Avoid showing personal account information, recommendations, notifications, or browser profile data where possible.
-
-<!-- After adding the screenshot, remove this comment and uncomment the line below. -->
-<!-- ![magic-actions player toolbar](docs/screenshots/player-toolbar.png) -->
+![magic-actions player toolbar](docs/screenshots/player-toolbar.png)
 
 ## Installation
 
