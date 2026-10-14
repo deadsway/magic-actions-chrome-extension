@@ -1,4 +1,4 @@
-# magic-actions
+# magic-actions - Ads free, Bloatware free, Redesign
 
 ![Chrome 121+](https://img.shields.io/badge/Chrome-121%2B-4285F4?logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-34A853)
