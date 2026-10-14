@@ -383,11 +383,18 @@ input[type=radio] {
 
 input[type=radio]:checked {
     border-color: var(--accent);
-    box-shadow: inset 0 0 0 4px #0a1524, inset 0 0 0 9px var(--accent);
+    background: radial-gradient(circle at center, var(--accent) 0 4px, #0a1524 4.5px 100%);
 }
 
 input[type=checkbox]:focus,
 input[type=radio]:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--focus);
+}
+
+input[type=radio]:checked:focus {
+    border-color: var(--accent);
+    background: radial-gradient(circle at center, var(--accent) 0 4px, #0a1524 4.5px 100%);
     box-shadow: 0 0 0 3px var(--focus);
 }
 
